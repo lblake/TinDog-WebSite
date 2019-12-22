@@ -1,2 +1,2 @@
 # TinDog-WebSite
-!()["/images/tindog-site.png"]
+![](images/tindog-site.png)
